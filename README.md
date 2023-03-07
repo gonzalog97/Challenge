@@ -8,7 +8,7 @@ _Ademas se realizo un caso de prueba donde se obtuvo por medio de request depart
 _Clonar repositorio:_
 
 ```
-git clone https://github.com/LauraMont/Challenge-Automation.git
+git clone https://github.com/gonzalog97/Challenge.git
 ```
 
 ### Pre-requisitos 📋
